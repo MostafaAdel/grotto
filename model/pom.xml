@@ -51,4 +51,11 @@
         <maven.compiler.source>1.7</maven.compiler.source>
         <maven.compiler.target>1.7</maven.compiler.target>
     </properties>
+    <repositories>
+    <repository>
+       
+    <id>java.net</id>
+    <url>http://download.java.net/maven/2/</url>
+</repository>
+</repositories>
 </project>

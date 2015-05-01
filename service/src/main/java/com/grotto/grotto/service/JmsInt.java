@@ -3,12 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
 package com.grotto.grotto.service;
 
 /**
  *
- * @author ahmed
+ * @author dina
  */
-public class Test {
-    //test class plz delet it 
+public interface JmsInt {
+    public void send(String queue);
 }
