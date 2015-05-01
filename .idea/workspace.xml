@@ -2,45 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6847f091-b03c-4e15-bccb-7faa127bdf62" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Grotto.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_1_5_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_attrs_1_5_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_2_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_2_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_web_api_7_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_jta_1_0_1B.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jboss_javassist_3_3_ga.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jboss_jboss_common_core_2_0_4_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_1_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_3_2_4_ga.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_annotations_3_3_0_ga.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_commons_annotations_3_0_0_ga.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_3_3_1_ga.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_3_0_0_ga.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_0_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_0_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_0_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_0_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_0_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_0_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Webview/Webview.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Webview_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Webview_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/model.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/service.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/src/main/java/com/grotto/grotto/model/homeImpl/HubsHomeImp.java" afterPath="$PROJECT_DIR$/model/src/main/java/com/grotto/grotto/model/homeImpl/HubsHomeImp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/src/main/java/com/grotto/grotto/model/homeImpl/ProductBrandsHomeImp.java" afterPath="$PROJECT_DIR$/model/src/main/java/com/grotto/grotto/model/homeImpl/ProductBrandsHomeImp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/src/main/java/com/grotto/grotto/model/homeImpl/ProductsHomeImp.java" afterPath="$PROJECT_DIR$/model/src/main/java/com/grotto/grotto/model/homeImpl/ProductsHomeImp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/src/main/java/com/grotto/grotto/model/homeImpl/ShelfCellsHomeImp.java" afterPath="$PROJECT_DIR$/model/src/main/java/com/grotto/grotto/model/homeImpl/ShelfCellsHomeImp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/src/main/java/com/grotto/grotto/model/homeImpl/SupermarketsHomeImp.java" afterPath="$PROJECT_DIR$/model/src/main/java/com/grotto/grotto/model/homeImpl/SupermarketsHomeImp.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/src/main/java/com/grotto/grotto/model/homeImpl/UserHomeImp.java" afterPath="$PROJECT_DIR$/model/src/main/java/com/grotto/grotto/model/homeImpl/UserHomeImp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/pom.xml" afterPath="$PROJECT_DIR$/model/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Grotto.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -68,13 +32,118 @@
     <favorites_list name="Grotto" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="522">
+              <caret line="16" column="17" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserHomeImp.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/model/src/main/java/com/grotto/grotto/model/homeImpl/UserHomeImp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.46905538" vertical-offset="0" max-vertical-offset="614">
+              <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#707#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/model/src/main/java/com/grotto/grotto/model/homeImpl/UserHomeImp.java" />
+      </list>
+    </option>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Grotto Model" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Grotto Model" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="org.hibernate:hibernate-entitymanager:3.3.1.ga" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependencyNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Grotto Model" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="org.hibernate:hibernate-entitymanager:3.3.1.ga" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependencyNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="org.hibernate:hibernate:3.2.4.ga" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependencyNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Grotto Model" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="24" />
@@ -136,7 +205,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
+              <option name="myItemId" value="Webview" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -150,7 +219,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
+              <option name="myItemId" value="Webview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Grotto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grotto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Webview" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -188,7 +283,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="model" />
+              <option name="myItemId" value="service" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -202,7 +297,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="model" />
+              <option name="myItemId" value="service" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -218,7 +313,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="model" />
+              <option name="myItemId" value="service" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -236,9 +331,13 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="MavenSettings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Webview/src/main" />
       <recent name="$PROJECT_DIR$/service" />
       <recent name="$PROJECT_DIR$/service/src" />
     </key>
@@ -490,12 +589,12 @@
       <created>1430480592142</created>
       <option name="number" value="Default" />
       <updated>1430480592142</updated>
-      <workItem from="1430480598423" duration="795000" />
+      <workItem from="1430480598423" duration="3930000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="795000" />
+    <option name="totallyTimeSpent" value="3930000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="744" extended-state="6" />
@@ -510,7 +609,7 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32930514" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -553,5 +652,68 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="522">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.grotto.grotto:model:1.0">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.grotto.grotto:model:1.0</OriginalElement>
+          <nodes>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.3.1.ga/org.hibernate:hibernate:jar:3.2.4.ga/asm:asm:jar:1.5.3</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.0.1.RELEASE/org.springframework:spring-aop:jar:4.0.1.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.3.1.ga/org.hibernate:hibernate:jar:3.2.4.ga/antlr:antlr:jar:2.7.6</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.0.1.RELEASE</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.3.1.ga/org.hibernate:hibernate:jar:3.2.4.ga/cglib:cglib:jar:2.1_3</node>
+            <node x="" y="">org.springframework:spring-core:jar:4.0.1.RELEASE/commons-logging:commons-logging:jar:1.1.1</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.3.1.ga/org.hibernate:hibernate-commons-annotations:jar:3.0.0.ga</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.3.1.ga/org.hibernate:hibernate:jar:3.2.4.ga</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.0.1.RELEASE/org.springframework:spring-expression:jar:4.0.1.RELEASE</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.3.1.ga/org.hibernate:hibernate-validator:jar:3.0.0.ga</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.3.1.ga</node>
+            <node x="" y="">commons-lang:commons-lang:jar:2.1</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.3.1.ga/org.hibernate:hibernate:jar:3.2.4.ga/net.sf.ehcache:ehcache:jar:1.2.3</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.3.1.ga/org.hibernate:hibernate:jar:3.2.4.ga/asm:asm-attrs:jar:1.5.3</node>
+            <node x="" y="">org.springframework:spring-core:jar:4.0.1.RELEASE</node>
+            <node x="" y="">org.springframework:spring-beans:jar:4.0.1.RELEASE</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.3.1.ga/org.hibernate:hibernate:jar:3.2.4.ga/commons-collections:commons-collections:jar:2.1.1</node>
+            <node x="" y="">com.grotto.grotto:model:1.0</node>
+            <node x="" y="">org.springframework:spring-tx:jar:4.0.1.RELEASE</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.3.1.ga/jboss:javassist:jar:3.3.ga</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.3.1.ga/org.hibernate:hibernate:jar:3.2.4.ga/dom4j:dom4j:jar:1.6.1</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.3.1.ga/org.hibernate:hibernate-annotations:jar:3.3.0.ga</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.3.1.ga/jboss:jboss-common-core:jar:2.0.4.GA</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.3.1.ga/javax.persistence:persistence-api:jar:1.0</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.3.1.ga/org.hibernate:hibernate:jar:3.2.4.ga/javax.transaction:jta:jar:1.0.1B</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.0.1.RELEASE/org.springframework:spring-aop:jar:4.0.1.RELEASE</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.8" x="284.125" y="365.0" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/main/java/com/grotto/grotto/model/homeImpl/UserHomeImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46905538" vertical-offset="0" max-vertical-offset="614">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#707#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
