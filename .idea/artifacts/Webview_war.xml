@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Webview:war">
+    <output-path>$PROJECT_DIR$/Webview/target</output-path>
+    <root id="archive" name="Webview-1.0.war">
+      <element id="artifact" artifact-name="Webview:war exploded" />
+    </root>
+  </artifact>
+</component>
